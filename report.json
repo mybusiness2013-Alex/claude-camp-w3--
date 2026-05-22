@@ -1,0 +1,11 @@
+{
+    "total_students": 10,
+    "country_counts": {
+        "China": 4,
+        "Australia": 2,
+        "Korea": 2,
+        "USA": 1,
+        "Singapore": 1
+    },
+    "completion_rate": 0.6
+}
